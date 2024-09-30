@@ -1,4 +1,4 @@
-# Security and Vulnerability Scanning Project
+# DevSecOps Project
 
 This project is designed to run automated security scans for code, configurations, containers, and infrastructure using various security tools like **Gosec**, **Semgrep**, and **Trivy**. The scan results are uploaded to **DefectDojo** for vulnerability tracking and management.
 
